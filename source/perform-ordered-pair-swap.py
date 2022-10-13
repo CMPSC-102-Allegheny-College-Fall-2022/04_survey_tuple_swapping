@@ -31,5 +31,5 @@ print(f"Swapped tuple of ordered pairs: {first_swapped_ordered_pair}")
 second_swapped_ordered_pair = ordered_pair_swap(first_swapped_ordered_pair[0], first_swapped_ordered_pair[1])
 print(f"Swapped (again) tuple of ordered pairs: {second_swapped_ordered_pair}")
 
-# TODO: Remember, make sure that the program produces expected output as described at:
+# TODO: Remember, make sure that the program produces expected output as described
 # in the README.md document
